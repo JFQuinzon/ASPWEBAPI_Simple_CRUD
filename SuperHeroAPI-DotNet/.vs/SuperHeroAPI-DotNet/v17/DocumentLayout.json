@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ASP.NET\\Web API\\SuperHeroAPI-DotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0245E-0168-46CA-840E-95D8BC368D4D}|SuperHeroAPI-DotNet\\SuperHeroAPI-DotNet.csproj|c:\\users\\administrator\\desktop\\asp.net\\web api\\superheroapi-dotnet\\superheroapi-dotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0245E-0168-46CA-840E-95D8BC368D4D}|SuperHeroAPI-DotNet\\SuperHeroAPI-DotNet.csproj|solutionrelative:superheroapi-dotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ASP.NET\\Web API\\SuperHeroAPI-DotNet\\SuperHeroAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ASP.NET\\Web API\\SuperHeroAPI-DotNet\\SuperHeroAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:38:00.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
